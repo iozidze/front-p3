@@ -1,0 +1,10 @@
+.header {
+    
+    min-width: 228px;
+    max-width: 1184px;
+
+    background-color: #f2f2f2;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}

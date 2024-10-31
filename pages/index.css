@@ -1,0 +1,37 @@
+/*основное*/
+@import url(../vendor/normalize.css);
+@import url(../block/page/page.css);
+
+/* допы всякие */
+@import url(../block/link/link.css);
+@import url(../block/rotation/rotation.css);
+
+/* header и logo */
+@import url(../block/header/header.css);
+@import url(../block/header/__lang-link/header__lang-link.css);
+@import url(../block/header/__logo/header__logo.css);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
+@import url(../block);
